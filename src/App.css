@@ -1,0 +1,20 @@
+.header{
+  width: 100%;
+  height: 150px;
+  background-color: thistle;
+}
+.main_img{
+  width: 100%;
+  height: 400px;
+  background-color: yellow;
+}
+.contents{
+  width: 100%;
+  height: 150px;
+  background-color: silver;
+}
+.footer{
+  width: 100%;
+  height: 150px;
+  background-color: royalblue;
+}
